@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lin Sun, a Ph.D. researcher from University of California, San Diego.
+- 👋 Hi, I’m Lin Sun, a post-doctoral fellow from University of California, San Diego.
 - 👀 I’m interested in machine learning, statistics, and software development.
 - 🌱 I’m currently learning software development.
 - 📫 you can reach me through email: lsun@ucsd.edu.
